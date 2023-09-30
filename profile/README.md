@@ -1,4 +1,4 @@
-# Careers
+# careers
 
 Bienvenue dans l'organisation GitHub de **careers**.
 
