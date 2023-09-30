@@ -1,4 +1,4 @@
-[![Logo de l'Organisation](profile/logo.png)](https://careers.io)
+# Careers
 
 Bienvenue dans l'organisation GitHub de **careers**.
 
